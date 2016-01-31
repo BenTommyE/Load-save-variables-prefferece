@@ -4,17 +4,16 @@ Store data from variables in a textfile on your hardrive.
 
 Processing (Java)
 
-EXAMPLE:
+See it i action on YouTube:
+https://youtu.be/zP_efhOY_yM
+
+EXAMPLE IN USE:
 
 Preference myPrefs = new Preference();
-
 myPrefs.loadPref();
-
 myPrefs.setText("coffee", "brown", false);        //setPref(key, value, saveItToDiskNow)
-
 println( myPrefs.getText("coffee") );
-  
-myPrefs.savePref();
+  myPrefs.savePref();
 
 
 COMANDS:
