@@ -1,2 +1,5 @@
 # Load-save-variables-prefferece
-Load and save data as variables, text and preferences in Processing (Java)
+
+Store data from variables in a textfile on your hardrive.
+
+Processing (Java)
