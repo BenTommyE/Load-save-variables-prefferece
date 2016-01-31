@@ -1,0 +1,5 @@
+Preferences:
+coffee=black
+flour=white
+tea=green
+suggarfree=yes
