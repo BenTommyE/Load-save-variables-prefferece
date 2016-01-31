@@ -1,7 +1,12 @@
 /*
-*
-*
-*/
+ * Load and save variables prefferece 
+ * 
+ * Store data from variables in a textfile on your hardrive.
+ * 
+ * By Ben-Tommy Eriksen
+ * ben@nornet.no
+ * www.nornet.no
+ */
 
 class Preference {
   
